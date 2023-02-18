@@ -7,8 +7,11 @@
 
 Файл с исходными данными "data/dst-3.0_16_1_hh_database.csv" к заданию имеет размер более 400 Мб, поэтому на GitHub он не опубликован, его можно скачать по [ссылке](https://disk.yandex.ru/d/EmfsHjqA4tp_ZA).
 
+
 # Полезные ссылки при реализации проекта
 * [Git: Удаление файлов из всех коммитов](https://pro-prof.com/forums/topic/git-удаление-файлов-из-всех-коммитов)  
 // java -jar bfg.jar --delete-files test.py
 
-* ... новая ссыка
+* [Как добавить колонку к pd.DataFrame; Представление/копия данных в DataFrameж; A value is trying to be set on a copy of a slice from a DataFrame](https://suilin.ru/post/pandas_column/)   
+
+* Команда для вычисления хеш-суммы: certutil -hashfile "data\dst-3.0_16_1_hh_database.csv"
